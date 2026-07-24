@@ -12,7 +12,7 @@
      ╲╱__╱                     ╲╱__╱         ╲╱__╱    
 ```
 
-I'm a curious **Computer Science and Engineering** Master's student at [Polimi](https://www.polimi.it/)
+I'm a curious **Computer Science and Engineering** Master's student at [Polimi](https://www.polimi.com/)
 
 ---
 
