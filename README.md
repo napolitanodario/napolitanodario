@@ -54,8 +54,8 @@ I'm a curious **Computer Science and Engineering** Master's student at [Polimi](
 
 🌱 Currently experimenting with **Rust** and **Self-hosting**.
 
-**Other interests:**
-- 🏃‍♂️ Strength training and Running
-- ♟️ Chess
-- 📷 Photography
-- ✈️ Travelling
+**Other interests:** 
+🏃‍♂️ Strength training and Running
+♟️ Chess
+📷 Photography
+✈️ Travelling
