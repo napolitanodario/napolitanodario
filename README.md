@@ -1,21 +1,6 @@
-```
-      ___                       ___           ___     
-     ╱╲  ╲          ___        ╱╲  ╲         ╱╲  ╲    
-    ╱::╲  ╲        ╱╲  ╲      ╱::╲  ╲       ╱::╲  ╲   
-   ╱:╱╲:╲  ╲       ╲:╲  ╲    ╱:╱╲:╲  ╲     ╱:╱╲:╲  ╲  
-  ╱:╱  ╲:╲  ╲      ╱::╲__╲  ╱::╲~╲:╲  ╲   ╱:╱  ╲:╲  ╲ 
- ╱:╱__╱ ╲:╲__╲  __╱:╱╲╱__╱ ╱:╱╲:╲ ╲:╲__╲ ╱:╱__╱ ╲:╲__╲
- ╲:╲  ╲  ╲╱__╱ ╱╲╱:╱  ╱    ╲╱__╲:╲╱:╱  ╱ ╲:╲  ╲ ╱:╱  ╱
-  ╲:╲  ╲       ╲::╱__╱          ╲::╱  ╱   ╲:╲  ╱:╱  ╱ 
-   ╲:╲  ╲       ╲:╲__╲          ╱:╱  ╱     ╲:╲╱:╱  ╱  
-    ╲:╲__╲       ╲╱__╱         ╱:╱  ╱       ╲::╱  ╱   
-     ╲╱__╱                     ╲╱__╱         ╲╱__╱    
-```
-
+### Ciao!
 I'm a curious **Computer Science and Engineering** Master's student at [Polimi](https://www.polimi.it/en/)
-
----
-
+## 
 **Languages:**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -49,12 +34,10 @@ I'm a curious **Computer Science and Engineering** Master's student at [Polimi](
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 ![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
 ![Dynatrace](https://img.shields.io/badge/-Dynatrace-1496FF?style=flat-square&logo=dynatrace&logoColor=white)
-
----
-
+## 
 🌱 Currently experimenting with **Rust** and **Self-hosting**.
 
-**Other interests:** 
+**Other interests:**
 🏃‍♂️ Strength training and Running
 ♟️ Chess
 📷 Photography
