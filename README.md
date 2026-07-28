@@ -1,5 +1,5 @@
 ### Ciao!
-I'm a curious **Computer Science and Engineering** Master's student at [Polimi](https://www.polimi.it/en/)
+I'm a passionate **Computer Science and Engineering** Master's student at [Polimi](https://www.polimi.it/en/)
 ## 
 **Languages:**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
